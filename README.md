@@ -16,7 +16,7 @@ Sections
 
 1. Header
    will have:
-      Logo or site name
+      site name
       Nav links (Home, Photos, About)
 
  2. Hero Section
@@ -33,8 +33,7 @@ This project was created to improve my:
   Website layout design
   Flexbox alignment
   Nav bar structure
-   Visual styling and responsiveness
-  Project organization using GitHub
+   Visual styling 
 
  Author
     Created by: Barack Mogere
