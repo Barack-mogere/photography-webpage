@@ -16,6 +16,11 @@
     align-self: center;
     margin-top: 50px;
 }
+.hero p {
+    justify-self: center;
+    align-self: center;
+    text-align: center;
+}
 
 
 body { background-color:  #0d0d0d;}
