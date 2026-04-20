@@ -85,3 +85,34 @@ body { background-color:  #0d0d0d;}
 
  }
 
+.gallery2 {
+    display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  gap: 15px;
+  padding: 20px;
+  justify-self: center;
+  align-self: center;
+  margin-top: 300px;
+}
+
+.gallery2 img {
+     width: 500px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.gallery2 img:hover {
+     transition: 0.5s;
+    animation: ease;
+    transform: scale(1.07);
+}
+
+.pics2div {
+    color: white;
+    font-style: italic;
+    font-size: xx-large;
+    justify-self: center;
+    align-self: center;
+}
