@@ -41,6 +41,7 @@ body { background-color:  #0d0d0d;}
     justify-self: center;
     align-self: center;
     font-style: italic;
+    font-weight: 600;
 }
 
 .picsdiv h1 {
