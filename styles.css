@@ -79,8 +79,9 @@ body { background-color:  #0d0d0d;}
  }
 
  .about p {
-    font-style: italic;
+    font-style: normal;
     color: white;
     text-align: center;
+
  }
 
