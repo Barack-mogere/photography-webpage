@@ -125,3 +125,7 @@ body { background-color:  #0d0d0d;}
     justify-self: center;
     align-self: center;
 }
+
+html {
+  scroll-behavior: smooth;
+}
