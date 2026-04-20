@@ -78,7 +78,7 @@ body { background-color:  #0d0d0d;}
     align-self: center;
  }
 
- .about p {
+ #about p {
     font-style: normal;
     color: white;
     text-align: center;
