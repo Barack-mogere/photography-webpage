@@ -1,5 +1,7 @@
 - Photography Portfolio Website-
 
+View My Project-https://github.com/Barack-mogere/photography-webpage.git
+live site-https://barack-mogere.github.io/photography-webpage/
 
 This is a simple photography portfolio website.
 The goal of this project is to practice web design fundamentals such as layout, flexbox, navigation bars, and visual styling.
@@ -34,6 +36,7 @@ This project was created to improve my:
   Flexbox alignment
   Nav bar structure
    Visual styling 
+
 
  Author
     Created by: Barack Mogere
